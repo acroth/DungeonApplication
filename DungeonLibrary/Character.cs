@@ -60,7 +60,7 @@ namespace DungeonLibrary
 
         public virtual int CalcDamage()
         {
-            return 0;
+            return 4;
         }
 
     }
